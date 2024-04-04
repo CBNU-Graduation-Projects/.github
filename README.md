@@ -1,2 +1,2 @@
 # .github
-We are formed to carry out Graduation-Projects conducted in the capstone project course established in 2024 at CBNU - Software Engineering Department.
+We are formed to carry out Graduation-Projects conducted in the capstone project course established in 2024 at CBNU - Software Engineering Department. Our project involves receiving photos of plant leaves from users via a web or app interface, using a CNN-trained disease prediction model to predict diseases present in the inputted plants. Finally, we provide a service that questions ChatGPT about the predicted disease to offer solutions for it.
